@@ -29,10 +29,10 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 - North America
 - France
 - Germany
-- London
-- Sydney
+- England (UK)
+- Australia
 - Poland
-- Tokyo
+- Japan
 
 ### Current features 
 - Live streaming to the global mesh
