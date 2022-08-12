@@ -21,6 +21,7 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 - Other features on request 
   
  ### Server Locations
+- Canada
 - North America
 - South America
 - France
