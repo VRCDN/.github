@@ -6,11 +6,11 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 
 ### Our aims and goals
 - A mesh of servers in key regions 
-- Achieve livestreams with latencies between 0.5 seconds and 3 seconds within VR platforms 
+- Achieve livestreams with latencies as low as 200 miliseconds within VR platforms 
 - Be fully funded by the community to help keep costs to you as low as possible
 - Research and develop further tools to help create manage streams and events within VR platforms.
 - Relaying streams to external platforms such as Twitch, YouTube, etc.
-- Allow one account to be used by multiple people (a group throwing a party and using one account to host all of their DJs    for example)
+- Allow one account to be used by multiple people (a group throwing a party and using one account to host all of their DJs for example)
 
     
 ### Commercial Events
@@ -19,11 +19,6 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 - An OBS instance hosted by VRCDN
 - Extra relay keys
 - Other features on request 
-    
-### Links Main
-- Website: [https://vrcdn.live/](https://vrcdn.live/ "https://vrcdn.live/")
-- Status: [https://status.vrcdn.live/](https://status.vrcdn.live/ "https://status.vrcdn.live/")
-- Patreon: [https://patreon.com/vrcdn](https://patreon.com/vrcdn "https://patreon.com/vrcdn")
   
  ### Server Locations
 - North America
@@ -47,3 +42,8 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 - Guest keys
 - Bookable VRChat instance management bots
 - Whitelisted in VRChat
+
+### Links Main
+- Website: [https://vrcdn.live/](https://vrcdn.live/ "https://vrcdn.live/")
+- Status: [https://status.vrcdn.live/](https://status.vrcdn.live/ "https://status.vrcdn.live/")
+- Patreon: [https://patreon.com/vrcdn](https://patreon.com/vrcdn "https://patreon.com/vrcdn")
