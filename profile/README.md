@@ -30,17 +30,20 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 - South America
 - France
 - Germany
-- England (UK)
-- Australia
 - Poland
+- Czechia 
+- England (UK)
 - Japan
+- Australia
 
 ### Current features 
 - Live streaming to the global mesh
+- Optimized by state routing for the USA
 - Many supported output protocols
 - Static video uploading and serving
 - OBS to OBS relay
 - Private streaming with a randomly generated endpoint string
 - Stream forwarding to external services
 - Guest keys
+- Bookable VRChat instance management bots
 - Whitelisted in VRChat
