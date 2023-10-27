@@ -41,7 +41,7 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
 - Private streaming with a randomly generated endpoint string
 - Stream forwarding to external services
 - Guest keys
-- Bookable VRChat instance management bots
+- ~~Bookable VRChat instance management bots~~ (Shut down in mid 2023 due to the rise of [VRChat Groups](https://hello.vrchat.com/blog/vrchat-groups))
 - Whitelisted in VRChat
 
 ### Links Main
