@@ -17,7 +17,7 @@ VRCDN is a media platform designed specifically for VR to help create a much bet
  For events that have over 1000 concurrent viewers we ask that you let us know in advance so that I can provide a custom quote and ensure there is enough capacity for the event to run smoothly. To further expand on this, commercial events can be requested by anyone regardless of size and can include these extra benefits: 
 - Meetings with VRCDN staff to help build stream workflows
 - An OBS instance hosted by VRCDN
-- Extra relay keys
+- Extra keys
 - Other features on request 
   
  ### Server Locations
